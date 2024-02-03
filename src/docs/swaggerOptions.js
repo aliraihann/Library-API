@@ -14,7 +14,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url:'http://localhost:3000',
+                url:'https://library-project-api.glitch.me',
             }
         ]
         },
